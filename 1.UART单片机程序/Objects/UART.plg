@@ -1,0 +1,121 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+D:\Users\wang\Desktop\2.单片机串口通信实现\1.UART单片机程序\UART.uvproj
+Project File Date:  02/19/2022
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+main.c(3): warning C318: can't open file '1602.c'
+linking...
+Program Size: data=63.1 xdata=0 code=717
+creating hex file from ".\Objects\UART"...
+".\Objects\UART" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?INIT_1602?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?LCD_CLR1602?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_GOTO_XY?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DISPLAY_NUM?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DISPLAY_NUM1?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DISPLAY_STRING?MAIN
+Program Size: data=96.1 xdata=0 code=1035
+creating hex file from ".\Objects\UART"...
+".\Objects\UART" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?INIT_1602?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?LCD_CLR1602?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_GOTO_XY?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DISPLAY_NUM?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DISPLAY_NUM1?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DISPLAY_STRING?MAIN
+Program Size: data=96.1 xdata=0 code=1035
+creating hex file from ".\Objects\UART"...
+".\Objects\UART" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DISPLAY_NUM?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DISPLAY_NUM1?MAIN
+Program Size: data=96.1 xdata=0 code=1063
+creating hex file from ".\Objects\UART"...
+".\Objects\UART" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(39): error C202: 'on_off': undefined identifier
+MAIN.C(45): error C202: 'on_off': undefined identifier
+MAIN.C(49): error C202: 'usart_data': undefined identifier
+MAIN.C(51): error C202: 'main_mode': undefined identifier
+MAIN.C(56): error C202: 'usart_data': undefined identifier
+MAIN.C(58): error C202: 'main_mode': undefined identifier
+MAIN.C(63): error C202: 'usart_data': undefined identifier
+MAIN.C(65): error C202: 'main_mode': undefined identifier
+MAIN.C(70): error C202: 'usart_data': undefined identifier
+MAIN.C(72): error C202: 'main_mode': undefined identifier
+MAIN.C(77): error C202: 'usart_data': undefined identifier
+MAIN.C(79): error C202: 'main_mode': undefined identifier
+MAIN.C(127): error C202: 'usart_data': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(52): error C202: 'main_mode': undefined identifier
+MAIN.C(59): error C202: 'main_mode': undefined identifier
+MAIN.C(66): error C202: 'main_mode': undefined identifier
+MAIN.C(73): error C202: 'main_mode': undefined identifier
+MAIN.C(80): error C202: 'main_mode': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DISPLAY_NUM?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DISPLAY_NUM1?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SENDSTRING?MAIN
+Program Size: data=98.2 xdata=0 code=1220
+creating hex file from ".\Objects\UART"...
+".\Objects\UART" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DISPLAY_NUM?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DISPLAY_NUM1?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SENDSTRING?MAIN
+Program Size: data=98.2 xdata=0 code=1224
+creating hex file from ".\Objects\UART"...
+".\Objects\UART" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DISPLAY_NUM?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DISPLAY_NUM1?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SENDSTRING?MAIN
+Program Size: data=98.2 xdata=0 code=1224
+creating hex file from ".\Objects\UART"...
+".\Objects\UART" - 0 Error(s), 3 Warning(s).
